@@ -54,4 +54,7 @@ Of course, there's always [reddit](https://www.reddit.com/r/shortcuts/).
 **November 3, 2020**
 - Added URL for VPN ⇾ DNS (thanks, [Graham](https://twitter.com/grahamrose/status/1316555547781541889))
 
+    
+- As the last tracked changes from the original article is dated in 2020, there will be no promise of guarantee if all URL schemes included are working.
+    
 </details>
