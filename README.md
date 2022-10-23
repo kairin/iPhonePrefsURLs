@@ -4,6 +4,7 @@ List of Settings URLs to launch "prefs:root" URLs via the Shortcuts app in iOS.
 Original work done by Federico Viticci for his article on [macstories.net](https://www.macstories.net/ios/a-comprehensive-guide-to-all-120-settings-urls-supported-by-ios-and-ipados-13-1/) titled:
 
 > _"A Comprehensive Guide to All 120+ Settings URLs Supported by iOS and iPadOS 13.1"_
+
 > ***BY FEDERICO VITICCI***
 
 # Why make this?
