@@ -174,92 +174,92 @@
 
 ## Reminders
 
-- Reminders: prefs:root=REMINDERS
-- Reminders ⇾ Default List: prefs:root=REMINDERS&path=DEFAULT_LIST
+- Reminders: `prefs:root=REMINDERS`
+- Reminders ⇾ Default List: `prefs:root=REMINDERS&path=DEFAULT_LIST`
 
 ## Voice Memos
 
-- Voice Memos: prefs:root=VOICE_MEMOS
+- Voice Memos: `prefs:root=VOICE_MEMOS`
 
 ## Phone
 
-- Phone: prefs:root=Phone
+- Phone: `prefs:root=Phone`
 
 ## Messages
 
-- Messages: prefs:root=MESSAGES
+- Messages: `prefs:root=MESSAGES`
 
 ## FaceTime
 
-- FaceTime: prefs:root=FACETIME
+- FaceTime: `prefs:root=FACETIME`
 
 ## Maps
 
-- Maps: prefs:root=MAPS
-- Maps ⇾ Driving & Navigation: prefs:root=MAPS&path=Driving%20%26%20Navigation
-- Maps ⇾ Transit: prefs:root=MAPS&path=Transit
+- Maps: `prefs:root=MAPS`
+- Maps ⇾ Driving & Navigation: `prefs:root=MAPS&path=Driving%20%26%20Navigation`
+- Maps ⇾ Transit: `prefs:root=MAPS&path=Transit`
 
 ## Compass
 
-- Compass: prefs:root=COMPASS
+- Compass: `prefs:root=COMPASS`
 
 ## Measure
 
-- Measure: prefs:root=MEASURE
+- Measure: `prefs:root=MEASURE`
 
 ## Safari
 
-- Safari: prefs:root=SAFARI
-- Safari ⇾ Content Blockers: prefs:root=SAFARI&path=Content%20Blockers
-- Safari ⇾ Downloads: prefs:root=SAFARI&path=DOWNLOADS
-- Safari ⇾ Close Tabs: prefs:root=SAFARI&path=Close%20Tabs
-- Safari ⇾ Clear History and Data: prefs:root=SAFARI&path=CLEAR_HISTORY_AND_DATA
-- Safari ⇾ Page Zoom: prefs:root=SAFARI&path=Page%20Zoom
-- Safari ⇾ Request Desktop Website: prefs:root=SAFARI&path=Request%20Desktop%20Website
-- Safari ⇾ Reader: prefs:root=SAFARI&path=Reader
-- Safari ⇾ Camera: prefs:root=SAFARI&path=Camera
-- Safari ⇾ Microphone: prefs:root=SAFARI&path=Microphone
-- Safari ⇾ Location: prefs:root=SAFARI&path=Location
-- Safari ⇾ Advanced: prefs:root=SAFARI&path=ADVANCED
+- Safari: `prefs:root=SAFARI`
+- Safari ⇾ Content Blockers: `prefs:root=SAFARI&path=Content%20Blockers`
+- Safari ⇾ Downloads: `prefs:root=SAFARI&path=DOWNLOADS`
+- Safari ⇾ Close Tabs: `prefs:root=SAFARI&path=Close%20Tabs`
+- Safari ⇾ Clear History and Data: `prefs:root=SAFARI&path=CLEAR_HISTORY_AND_DATA`
+- Safari ⇾ Page Zoom: `prefs:root=SAFARI&path=Page%20Zoom`
+- Safari ⇾ Request Desktop Website: `prefs:root=SAFARI&path=Request%20Desktop%20Website`
+- Safari ⇾ Reader: `prefs:root=SAFARI&path=Reader`
+- Safari ⇾ Camera: `prefs:root=SAFARI&path=Camera`
+- Safari ⇾ Microphone: `prefs:root=SAFARI&path=Microphone`
+- Safari ⇾ Location: `prefs:root=SAFARI&path=Location`
+- Safari ⇾ Advanced: `prefs:root=SAFARI&path=ADVANCED`
 
 ## News
 
-- News: prefs:root=NEWS
+- News: `prefs:root=NEWS`
 
 ## Health
 
-- Health: prefs:root=HEALTH
+- Health: `prefs:root=HEALTH`
 
 ## Shortcuts
 
-- Shortcuts: prefs:root=SHORTCUTS
+- Shortcuts: `prefs:root=SHORTCUTS`
 
 ## Music
 
-- Music: prefs:root=MUSIC
-- Music ⇾ Cellular Data: prefs:root=MUSIC&path=com.apple.Music:CellularData
-- Music ⇾ Optimize Storage: prefs:root=MUSIC&path=com.apple.Music:OptimizeStorage
-- Music ⇾ EQ: prefs:root=MUSIC&path=com.apple.Music:EQ
-- Music ⇾ Volume Limit: prefs:root=MUSIC&path=com.apple.Music:VolumeLimit
+- Music: `prefs:root=MUSIC`
+- Music ⇾ Cellular Data: `prefs:root=MUSIC&path=com.apple.Music:CellularData`
+- Music ⇾ Optimize Storage: `prefs:root=MUSIC&path=com.apple.Music:OptimizeStorage`
+- Music ⇾ EQ: `prefs:root=MUSIC&path=com.apple.Music:EQ`
+- Music ⇾ Volume Limit: `prefs:root=MUSIC&path=com.apple.Music:VolumeLimit`
 
 ## TV
 
-- Settings ⇾ TV: prefs:root=TVAPP
+- Settings ⇾ TV: `prefs:root=TVAPP`
 
 ## Photos
 
-- Photos: prefs:root=Photos
+- Photos: `prefs:root=Photos`
 
 ## Camera
 
-- Camera: prefs:root=CAMERA
-- Camera ⇾ Record Video: prefs:root=CAMERA&path=Record%20Video
-- Camera ⇾ Record Slo-mo: prefs:root=CAMERA&path=Record%20Slo-mo
+- Camera: `prefs:root=CAMERA`
+- Camera ⇾ Record Video: `prefs:root=CAMERA&path=Record%20Video`
+- Camera ⇾ Record Slo-mo: `prefs:root=CAMERA&path=Record%20Slo-mo`
 
 ## Books
 
-- Books: prefs:root=IBOOKS
+- Books: `prefs:root=IBOOKS`
 
 ## Game Center
 
-- Game Center: prefs:root=GAMECENTER
+- Game Center: `prefs:root=GAMECENTER`
