@@ -65,111 +65,112 @@
 
 ## Control Center
 
-- Control Center: prefs:root=ControlCenter
-- Control Center ⇾ Customize Controls: prefs:root=ControlCenter&path=CUSTOMIZE_CONTROLS
+- Control Center: `prefs:root=ControlCenter`
+- Control Center ⇾ Customize Controls: `prefs:root=ControlCenter&path=CUSTOMIZE_CONTROLS`
 
 ## Display
-- Display: prefs:root=DISPLAY
-- Display ⇾ Auto Lock: prefs:root=DISPLAY&path=AUTOLOCK
-- Display ⇾ Text Size: prefs:root=DISPLAY&path=TEXT_SIZE
+
+- Display: `prefs:root=DISPLAY`
+- Display ⇾ Auto Lock: `prefs:root=DISPLAY&path=AUTOLOCK`
+- Display ⇾ Text Size: `prefs:root=DISPLAY&path=TEXT_SIZE`
 
 ## Accessibility
 
-- Accessibility: prefs:root=ACCESSIBILITY
+- Accessibility: `prefs:root=ACCESSIBILITY`
 
 ## Wallpaper
 
-- Wallpaper: prefs:root=Wallpaper
+- Wallpaper: `prefs:root=Wallpaper`
 
 ## Siri
 
-- Siri: prefs:root=SIRI
+- Siri: `prefs:root=SIRI`
 
 ## Apple Pencil
 
-- Apple Pencil (iPad-only): prefs:root=Pencil
+- Apple Pencil (iPad-only): `prefs:root=Pencil`
 
 ## Face ID
 
-- Face ID: prefs:root=PASSCODE
+- Face ID: `prefs:root=PASSCODE`
 
 ## Emergency SOS
 
-- Emergency SOS: prefs:root=EMERGENCY_SOS
+- Emergency SOS: `prefs:root=EMERGENCY_SOS`
 
 ## Battery
 
-- Battery: prefs:root=BATTERY_USAGE
-- Battery ⇾ Battery Health (iPhone-only): prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH
+- Battery: `prefs:root=BATTERY_USAGE`
+- Battery ⇾ Battery Health (iPhone-only): `prefs:root=BATTERY_USAGE&path=BATTERY_HEALTH`
 
 ## Privacy
 
-- Privacy: prefs:root=Privacy
-- Privacy ⇾ Location Services: prefs:root=Privacy&path=LOCATION
-- Privacy ⇾ Contacts: prefs:root=Privacy&path=CONTACTS
-- Privacy ⇾ Calendars: prefs:root=Privacy&path=CALENDARS
-- Privacy ⇾ Reminders: prefs:root=Privacy&path=REMINDERS
-- Privacy ⇾ Photos: prefs:root=Privacy&path=PHOTOS
-- Privacy ⇾ Microphone: prefs:root=Privacy&path=MICROPHONE
-- Privacy ⇾ Speech Recognition: prefs:root=Privacy&path=SPEECH_RECOGNITION
-- Privacy ⇾ Camera: prefs:root=Privacy&path=CAMERA
-- Privacy ⇾ Motion: prefs:root=Privacy&path=MOTION
-- Privacy ⇾ Analytics & Improvements: prefs:root=Privacy&path=PROBLEM_REPORTING
-- Privacy ⇾ Apple Advertising: prefs:root=Privacy&path=ADVERTISING
+- Privacy: `prefs:root=Privacy`
+- Privacy ⇾ Location Services: `prefs:root=Privacy&path=LOCATION`
+- Privacy ⇾ Contacts: `prefs:root=Privacy&path=CONTACTS`
+- Privacy ⇾ Calendars: `prefs:root=Privacy&path=CALENDARS`
+- Privacy ⇾ Reminders: `prefs:root=Privacy&path=REMINDERS`
+- Privacy ⇾ Photos: `prefs:root=Privacy&path=PHOTOS`
+- Privacy ⇾ Microphone: `prefs:root=Privacy&path=MICROPHONE`
+- Privacy ⇾ Speech Recognition: `prefs:root=Privacy&path=SPEECH_RECOGNITION`
+- Privacy ⇾ Camera: `prefs:root=Privacy&path=CAMERA`
+- Privacy ⇾ Motion: `prefs:root=Privacy&path=MOTION`
+- Privacy ⇾ Analytics & Improvements: `prefs:root=Privacy&path=PROBLEM_REPORTING`
+- Privacy ⇾ Apple Advertising: `prefs:root=Privacy&path=ADVERTISING`
 
 ## App Store
 
-- App Store: prefs:root=STORE
-- App Store ⇾ App Downloads: prefs:root=STORE&path=App%20Downloads
-- App Store ⇾ Video Autoplay: prefs:root=STORE&path=Video%20Autoplay
+- App Store: `prefs:root=STORE`
+- App Store ⇾ App Downloads: `prefs:root=STORE&path=App%20Downloads`
+- App Store ⇾ Video Autoplay: `prefs:root=STORE&path=Video%20Autoplay`
 
 ## Wallet
 
-- Wallet: prefs:root=PASSBOOK
+- Wallet: `prefs:root=PASSBOOK`
 
 ## Passwords
 
-- Passwords: prefs:root=PASSWORDS
+- Passwords: `prefs:root=PASSWORDS`
 
 ## Mail
-- Mail: prefs:root=MAIL
-- Mail ⇾ Accounts: prefs:root=ACCOUNTS_AND_PASSWORDS&path=ACCOUNTS
-- Mail ⇾ Accounts ⇾ Fetch New Data: prefs:root=ACCOUNTS_AND_PASSWORDS&path=FETCH_NEW_DATA
-- Mail ⇾ Accounts ⇾ Add Account: prefs:root=ACCOUNTS_AND_PASSWORDS&path=ADD_ACCOUNT
-- Mail ⇾ Preview: prefs:root=MAIL&path=Preview
-- Mail ⇾ Swipe Options: prefs:root=MAIL&path=Swipe%20Options
-- Mail ⇾ Notifications: prefs:root=MAIL&path=NOTIFICATIONS
-- Mail ⇾ Blocked: prefs:root=MAIL&path=Blocked
-- Mail ⇾ Muted Thread Action: prefs:root=MAIL&path=Muted%20Thread%20Action
-- Mail ⇾ Blocked Sender Options: prefs:root=MAIL&path=Blocked%20Sender%20Options
-- Mail ⇾ Mark Addresses: prefs:root=MAIL&path=Mark%20Addresses
-- Mail ⇾ Increase Quote Level: prefs:root=MAIL&path=Increase%20Quote%20Level
-- Mail ⇾ Include Attachments with Replies: prefs:root=MAIL&path=Include%20Attachments%20with%20Replies
-- Mail ⇾ Signature: prefs:root=MAIL&path=Signature
-- Mail ⇾ Default Account: prefs:root=MAIL&path=Default%20Account
+- Mail: `prefs:root=MAIL`
+- Mail ⇾ Accounts: `prefs:root=ACCOUNTS_AND_PASSWORDS&path=ACCOUNTS`
+- Mail ⇾ Accounts ⇾ Fetch New Data: `prefs:root=ACCOUNTS_AND_PASSWORDS&path=FETCH_NEW_DATA`
+- Mail ⇾ Accounts ⇾ Add Account: `prefs:root=ACCOUNTS_AND_PASSWORDS&path=ADD_ACCOUNT`
+- Mail ⇾ Preview: `prefs:root=MAIL&path=Preview`
+- Mail ⇾ Swipe Options: `prefs:root=MAIL&path=Swipe%20Options`
+- Mail ⇾ Notifications: `prefs:root=MAIL&path=NOTIFICATIONS`
+- Mail ⇾ Blocked: `prefs:root=MAIL&path=Blocked`
+- Mail ⇾ Muted Thread Action: `prefs:root=MAIL&path=Muted%20Thread%20Action`
+- Mail ⇾ Blocked Sender Options: `prefs:root=MAIL&path=Blocked%20Sender%20Options`
+- Mail ⇾ Mark Addresses: `prefs:root=MAIL&path=Mark%20Addresses`
+- Mail ⇾ Increase Quote Level: `prefs:root=MAIL&path=Increase%20Quote%20Level`
+- Mail ⇾ Include Attachments with Replies: `prefs:root=MAIL&path=Include%20Attachments%20with%20Replies`
+- Mail ⇾ Signature: `prefs:root=MAIL&path=Signature`
+- Mail ⇾ Default Account: `prefs:root=MAIL&path=Default%20Account`
 
 ## Contacts
 
-- Contacts: prefs:root=CONTACTS
+- Contacts: `prefs:root=CONTACTS`
 
 ## Calendar
 
-- Calendar: prefs:root=CALENDAR
-- Calendar ⇾ Alternate Calendars: prefs:root=CALENDAR&path=Alternate%20Calendars
-- Calendar ⇾ Sync: prefs:root=CALENDAR&path=Sync
-- Calendar ⇾ Default Alert Times: prefs:root=CALENDAR&path=Default%20Alert%20Times
-- Calendar ⇾ Default Calendar: prefs:root=CALENDAR&path=Default%20Calendar
+- Calendar: `prefs:root=CALENDAR`
+- Calendar ⇾ Alternate Calendars: `prefs:root=CALENDAR&path=Alternate%20Calendars`
+- Calendar ⇾ Sync: `prefs:root=CALENDAR&path=Sync`
+- Calendar ⇾ Default Alert Times: `prefs:root=CALENDAR&path=Default%20Alert%20Times`
+- Calendar ⇾ Default Calendar: `prefs:root=CALENDAR&path=Default%20Calendar`
 
 ## Notes
 
-- Notes: prefs:root=NOTES
-- Notes ⇾ Default Account: prefs:root=NOTES&path=Default%20Account
-- Notes ⇾ Password: prefs:root=NOTES&path=Password
-- Notes ⇾ Sort Notes By: prefs:root=NOTES&path=Sort%20Notes%20By
-- Notes ⇾ New Notes Start With: prefs:root=NOTES&path=New%20Notes%20Start%20With
-- Notes ⇾ Sort Checked Items: prefs:root=NOTES&path=Sort%20Checked%20Items
-- Notes ⇾ Lines & Grids: prefs:root=NOTES&path=Lines%20%26%20Grids
-- Notes ⇾ Access Notes from Lock Screen: prefs:root=NOTES&path=Access%20Notes%20from%20Lock%20Screen
+- Notes: `prefs:root=NOTES`
+- Notes ⇾ Default Account: `prefs:root=NOTES&path=Default%20Account`
+- Notes ⇾ Password: `prefs:root=NOTES&path=Password`
+- Notes ⇾ Sort Notes By: `prefs:root=NOTES&path=Sort%20Notes%20By`
+- Notes ⇾ New Notes Start With: `prefs:root=NOTES&path=New%20Notes%20Start%20With`
+- Notes ⇾ Sort Checked Items: `prefs:root=NOTES&path=Sort%20Checked%20Items`
+- Notes ⇾ Lines & Grids: `prefs:root=NOTES&path=Lines%20%26%20Grids`
+- Notes ⇾ Access Notes from Lock Screen: `prefs:root=NOTES&path=Access%20Notes%20from%20Lock%20Screen`
 
 ## Reminders
 
