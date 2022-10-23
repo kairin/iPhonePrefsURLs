@@ -1,5 +1,9 @@
 # Settings URLs
 
+## Apple ID
+<!-- added the following line not found in the original article -->
+- Hide My Email: `prefs:root=APPLE_ACCOUNT&path=ICLOUD_SERVICE/PRIVATE_EMAIL_MANAGE`
+
 ## iCloud
 
 - iCloud: `prefs:root=CASTLE`
