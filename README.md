@@ -9,7 +9,7 @@ Original work done by Federico Viticci for his article on [macstories.net](https
 
 # Why make this?
 
-Short answer, I could not find the prefs url that I wanted to use for my own Shortcuts.
+Short answer, I could not find the prefs url (or URL schemas) that I wanted to use for my own Shortcuts.
 
 Long answer, current iPhone operating system that I am using is iOS 16.0.3. Hopefully this is an easier way to keep the list updated.
 
