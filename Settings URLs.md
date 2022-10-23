@@ -1,5 +1,7 @@
 # Settings URLs
 
+URL schemes below are for use in iPhone's Shortcut app.
+
 ## Apple ID
 <!-- added the following line not found in the original article -->
 - Hide My Email: `prefs:root=APPLE_ACCOUNT&path=ICLOUD_SERVICE/PRIVATE_EMAIL_MANAGE`
