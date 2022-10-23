@@ -42,7 +42,7 @@ Of course, there's always [reddit](https://www.reddit.com/r/shortcuts/).
 - Added URL for Safari ⇾ Clear History and Data (thanks, Odenwald).
 - Added URL for Safari ⇾ Advanced (thanks, [Bill](https://twitter.com/flooie/status/1246975086722191360)).
 - Updated "Open Settings" shortcut with latest additions.
-  - Download [here](https://www.icloud.com/shortcuts/b5e7623e0baf4d55a6baf52c8439cf7e).
+  - Download the shortcut [here](https://www.icloud.com/shortcuts/b5e7623e0baf4d55a6baf52c8439cf7e).
 
 **September 23, 2020**
 - Revised structure for Mail ⇾ Accounts URLs based on iOS 14
