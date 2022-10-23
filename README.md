@@ -39,15 +39,16 @@ Of course, there's always [reddit](https://www.reddit.com/r/shortcuts/).
   - This is best used as a widget shortcut to quickly adjust the Magic Keyboard’s brightness level. 
   - You can find the shortcut [here](https://www.icloud.com/shortcuts/04e678a485f348359ad62c9b3ef2579b).
 - Added URL for Safari ⇾ Clear History and Data (thanks, Odenwald).
-- Added URL for Safari ⇾ Advanced (thanks, Bill).
-- Updated Open Settings shortcut with latest additions.
+- Added URL for Safari ⇾ Advanced (thanks, [Bill](https://twitter.com/flooie/status/1246975086722191360)).
+- Updated "Open Settings" shortcut with latest additions.
+  - Download [here](https://www.icloud.com/shortcuts/b5e7623e0baf4d55a6baf52c8439cf7e).
 
 **September 23, 2020**
 - Revised structure for Mail ⇾ Accounts URLs based on iOS 14
 - Added URLs for Privacy ⇾ Analytics & Improvements and Privacy ⇾ Apple Advertising (thanks, Ethan)
-- Added new Passwords URL (thanks, Ricky)
+- Added new Passwords URL (thanks, [Ricky](https://twitter.com/rmondello/status/1308496144482271232))
 
 **November 3, 2020**
-- Added URL for VPN ⇾ DNS (thanks, Graham)
+- Added URL for VPN ⇾ DNS (thanks, [Graham](https://twitter.com/grahamrose/status/1316555547781541889))
 
 </details>
