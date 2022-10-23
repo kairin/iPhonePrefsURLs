@@ -15,13 +15,12 @@ Long answer, current iPhone operating system that I am using is iOS 16.0.3. I ho
 <details>
 <summary>Updates Tracked in original article</summary>
 
- ## October 1, 2019
-
-* Added URLs for Cellular ⇾ Cellular Data Options and Accessibility ⇾ Display & Text Size (thanks, [Konstantin](https://twitter.com/chronos1121/status/1179060620567678979))
-* Fixed Phone URL
-* Removed unsupported Podcasts URL
-* As reported by Reddit user ‘PuyoPuyoPrisoner’, it is possible to jump directly to a third-party app’s Settings page by using its Bundle ID. Instructions are available in this Reddit comment. For example, you could access the Adobe Lightroom page in Settings via prefs:root=com.adobe.lrmobilephone (thanks, samesimilar)
-* Added URL for Passwords & Accounts page (thanks, Darius)
+    October 1, 2019
+        * Added URLs for Cellular ⇾ Cellular Data Options and Accessibility ⇾ Display & Text Size (thanks, [Konstantin](https://twitter.com/chronos1121/status/1179060620567678979))
+        * Fixed Phone URL
+        * Removed unsupported Podcasts URL
+        * As reported by Reddit user ‘PuyoPuyoPrisoner’, it is possible to jump directly to a third-party app’s Settings page by using its Bundle ID. Instructions are available in this Reddit comment. For example, you could access the Adobe Lightroom page in Settings via prefs:root=com.adobe.lrmobilephone (thanks, samesimilar)
+        * Added URL for Passwords & Accounts page (thanks, Darius)
 
  ## October 5, 2019
 
