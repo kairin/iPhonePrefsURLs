@@ -1,10 +1,10 @@
 # iPhonePrefsURLs
 List of Settings URLs to launch "prefs:root" URLs via the Shortcuts app in iOS.
 
-Original work done by Federico Viticci for his article on the [macstories.net](https://www.macstories.net/ios/a-comprehensive-guide-to-all-120-settings-urls-supported-by-ios-and-ipados-13-1/) titled:
+Original work done by Federico Viticci for his article on [macstories.net](https://www.macstories.net/ios/a-comprehensive-guide-to-all-120-settings-urls-supported-by-ios-and-ipados-13-1/) titled:
 
-"A Comprehensive Guide to All 120+ Settings URLs Supported by iOS and iPadOS 13.1"
-*BY FEDERICO VITICCI*
+> _"A Comprehensive Guide to All 120+ Settings URLs Supported by iOS and iPadOS 13.1"_
+> ***BY FEDERICO VITICCI***
 
 # Why make this?
 
@@ -23,17 +23,21 @@ Of course, there's always [reddit](https://www.reddit.com/r/shortcuts/).
 - Added URLs for Cellular ⇾ Cellular Data Options and Accessibility ⇾ Display & Text Size (thanks, [Konstantin](https://twitter.com/chronos1121/status/1179060620567678979))
 - Fixed Phone URL
 - Removed unsupported Podcasts URL
-- As reported by Reddit user ‘PuyoPuyoPrisoner’, it is possible to jump directly to a third-party app’s Settings page by using its Bundle ID. Instructions are available in this Reddit comment. For example, you could access the Adobe Lightroom page in Settings via `prefs:root=com.adobe.lrmobilephone` (thanks, samesimilar)
-- Added URL for Passwords & Accounts page (thanks, Darius)
+- As reported by Reddit user ‘PuyoPuyoPrisoner’, it is possible to jump directly to a third-party app’s Settings page by using its Bundle ID.
+  - Instructions [in this Reddit comment](https://www.reddit.com/r/shortcuts/comments/dbuuhn/comment/f243s2d/?context=1). 
+  - For example, you could access the Adobe Lightroom page in Settings via `prefs:root=com.adobe.lrmobilephone` (thanks, [samesimilar](https://twitter.com/samesimilar/status/1179068313000906752))
+- Added URL for Passwords & Accounts page (thanks, [Darius](https://twitter.com/_dardarbinks/status/1179105685881184256))
 
 **October 5, 2019**
-- Added URLs for Passwords & Accounts ⇾ Fetch New Data and Passwords & Accounts ⇾ Add Account (thanks, Jeremy).
+- Added URLs for Passwords & Accounts ⇾ Fetch New Data and Passwords & Accounts ⇾ Add Account (thanks, [Jeremy](https://twitter.com/jeremyalmc/status/1179517501882982401)).
 
 **December 20, 2019**
-- Added URLs for Text Replacement, One Handed Keyboard, and TV settings (thanks to Launcher developer Greg Gardner).
+- Added URLs for Text Replacement, One Handed Keyboard, and TV settings (thanks to [Launcher](https://apps.apple.com/us/app/launcher-with-multiple-widgets/id905099592)'s developer Greg Gardner).
 
 **April 21, 2020**
-- Added URL for Settings ⇾ General ⇾ Keyboard ⇾ Hardware Keyboard (thanks, Phil). This is best used as a widget shortcut to quickly adjust the Magic Keyboard’s brightness level. You can find the shortcut here.
+- Added URL for Settings ⇾ General ⇾ Keyboard ⇾ Hardware Keyboard (thanks, Phil).
+  - This is best used as a widget shortcut to quickly adjust the Magic Keyboard’s brightness level. 
+  - You can find the shortcut [here](https://www.icloud.com/shortcuts/04e678a485f348359ad62c9b3ef2579b).
 - Added URL for Safari ⇾ Clear History and Data (thanks, Odenwald).
 - Added URL for Safari ⇾ Advanced (thanks, Bill).
 - Updated Open Settings shortcut with latest additions.
