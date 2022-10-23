@@ -10,7 +10,7 @@ BY FEDERICO VITICCI
 
 Short answer, I could not find the prefs url that I wanted to use for my own Shortcuts.
 
-Long answer, current iPhone operating system that I am using is iOS 16.0.3. I hope this might be a much easier way for people to help collaborate or help to keep the list updated.
+Long answer, current iPhone operating system that I am using is iOS 16.0.3. Hopefully this is an easier way to keep the list updated.
 
 Of course, there's always [reddit](https://www.reddit.com/r/shortcuts/).
 
