@@ -13,7 +13,7 @@ Original work done by Federico Viticci for his article on [macstories.net](https
 
 Short answer, I could not find the prefs url (or URL schemas) that I wanted to use for my own Shortcuts.
 
-Long answer, current iPhone operating system that I am using is iOS 16.0.3, and it's been a while since the original article has been update.
+Long answer, current iPhone operating system that I am using is iOS 16.0.3, and it's been a while since the original article itself has been updated.
 
 Also, hopefully this is an easier way to keep the list updated.
 
